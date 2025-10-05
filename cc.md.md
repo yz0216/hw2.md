@@ -53,6 +53,7 @@ gantt
 
 ## (3) 🔴 關鍵路徑分析 (Critical Path)
 
+
 ```mermaid
 flowchart LR
     A1([1 研擬計畫<br>1天]) --> A2([2 任務分配<br>4天])
@@ -69,10 +70,3 @@ flowchart LR
     classDef critical fill=#f66,stroke=#333,stroke-width=2px,color=white;
     class start,end,A1,A2,A4,A6,A9,A11 critical;
 ```
-
-📌 **關鍵路徑順序：**
-```
-開始 → 1 → 2 → 4 → 6 → 9 → 11 → 結束
-```
-
-🕒 **總工期：155 天**
