@@ -1,6 +1,7 @@
-```mermaid
+
 gantt
-    title hw02
+    title 專案甘特圖
+    dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
     section 規劃階段
@@ -21,4 +22,3 @@ gantt
     轉換檔案          :a8, after a5, 20d
     使用者訓練        :a10, after a7 a8, 20d
     使用者測試        :a11, after a9 a10, 25d
-```
