@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title 專案甘特圖
+    title hw02
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
