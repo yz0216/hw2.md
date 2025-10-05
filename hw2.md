@@ -1,7 +1,6 @@
 ```mermaid
 gantt
     title hw02
-    dateFormat  YYYY-MM-DD
     axisFormat  %m/%d
 
     section 規劃階段
